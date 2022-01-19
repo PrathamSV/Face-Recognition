@@ -3,7 +3,7 @@
 Simple Face Recognition in Python!
 
 
-# I'm making this because I have nothing better to do...
+### I'm making this because I have nothing better to do...
 
 
 Progress:
